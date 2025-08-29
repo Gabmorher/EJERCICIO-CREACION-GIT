@@ -40,7 +40,7 @@ El objetivo es crear un repositorio en GitHub que contenga un archivo `README.md
 ##  Instrucciones de uso
 1. Clonar el repositorio en tu equipo:
    ```bash
-   git clone https://github.com/usuario/proyecto-ejemplo.git
+   git clone https://github.com/usuario/proyecto-ejempl.gi
 
 
 
